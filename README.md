@@ -12,6 +12,10 @@
 - 🎓 **Undergraduate B.S. Alumnus** at [Vanderbilt University](https://www.vanderbilt.edu/)
 - 🏡'Lives in **Pittsburgh, PA, United States**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+
+My current study is primarily focused on <ins>**computer systems**</ins> with a minor track in <ins>**machine learning**</ins> at <ins>**Carnegie Mellon University**</ins>. Before joining CMU as a graduate student, I successfully graduated with a B.S. degree in <ins>**Computer Science**</ins> as well as <ins>**Mathematics**</ins> from <ins>**Vanderbilt University**</ins> in 2023. <br>
+
+I have previously participated in multiple machine learning research laboratories at <ins>**Vanderbilt School of Engineering**</ins> and served as a Software Developer Intern at <ins>**IFlyTek.Inc**</ins>, a world-leading AI Solution Provider of Language Exchange & Machine Learning in China. I am currently further enhancing my knowledge base at CMU in the systems as well as machine learning field. I am eager to combine the knowledge of these two fields to serve the best of humanity. Feel free to contact me if you find anything interesting here :)
 <br>
 
 ## Connect with me ☕ :
@@ -49,6 +53,17 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 <br/>
+
+### 👉 Relavent Courses
+<ins>**CS Fundamentals:**</ins> Fundamentals of Programming, Data Structures, Algorithms, Discrete Structures
+
+<ins>**Software:**</ins> Intermediate Software Design, Principles of Software Design, Web Design
+
+<ins>**Systems:**</ins> Computer Systems, Digital Systems, Operating Systems, Distributed Systems, Database Management Systems
+
+<ins>**Machine Learning:**</ins> Machine Learning, Artificial Intelligence, Image Processing, Computer Vision, Machine Learning Project
+
+<ins>**Mathematics:**</ins> Linear Algebra, Probability, Statistics, Numerical Analysis, Convex Optimization, Mathematical Data Science
 
 ## GitHub Stats 📈 :
 
