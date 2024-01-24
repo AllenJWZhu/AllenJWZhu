@@ -63,21 +63,38 @@ Feel free to contact me if you find anything interesting here :)
 
 <ins>**Mathematics:**</ins> Linear Algebra, Probability, Statistics, Numerical Analysis, Convex Optimization, Mathematical Data Science
 
-## GitHub Stats 📈 :
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AllenJWZhu&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AllenJWZhu&theme=dark&hide_border=false" /> 
+</td>
 
-<br>
+<td width="50%" align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AllenJWZhu&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AllenJWZhu GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenJWZhu&theme=algolia)](https://github.com/AllenJWZhu/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenJWZhu&theme=algolia)](https://github.com/AllenJWZhu/github-readme-stats) [![AllenJWZhu wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AllenJWZhu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
-<br>
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=AllenJWZhu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 
-## GitHub Thropies 🏆 :
 
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AllenJWZhu)](https://github.com/AllenJWZhu/github-profile-trophy)
-
-<br>
+</p>        
+<!--- stats (end) -->
 
 Credit: [AllenJWZhu](https://github.com/AllenJWZhu)
 
