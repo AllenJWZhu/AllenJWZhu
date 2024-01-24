@@ -6,7 +6,7 @@
 
 - 🎓 I am currently a **M.S. Graduate Student** at [Carnegie Mellon University](https://www.cmu.edu/)
 - 🎓 **Undergraduate B.S. Alumnus** at [Vanderbilt University](https://www.vanderbilt.edu/)
-- 🏡'Lives in **Pittsburgh, PA, United States**
+- 🏡 **Pittsburgh, PA, United States**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 My current study is primarily focused on <ins>**computer systems**</ins> with a minor track in <ins>**machine learning**</ins> at <ins>**Carnegie Mellon University**</ins>. Before joining CMU as a graduate student, I successfully graduated with a B.S. degree in <ins>**Computer Science**</ins> as well as <ins>**Mathematics**</ins> from <ins>**Vanderbilt University**</ins> in 2023. <br>
