@@ -4,8 +4,8 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 
-- 🎓 I am currently a **M.S. Graduate Student** at [Carnegie Mellon University](https://www.cmu.edu/)
-- 🎓 **Undergraduate B.S. Alumnus** at [Vanderbilt University](https://www.vanderbilt.edu/)
+- 🎓 **M.S. Graduate Student** at [Carnegie Mellon University](https://www.cmu.edu/)
+- 🎓 **B.S. Undergraduate Alumnus** at [Vanderbilt University](https://www.vanderbilt.edu/)
 - 🏡 **Pittsburgh, PA, United States**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
