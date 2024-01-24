@@ -9,7 +9,7 @@
 - 🏡 **Pittsburgh, PA, United States**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
-My current study is primarily focused on <ins>**computer systems**</ins> with a program track in <ins>**machine learning**</ins> at <ins>**Carnegie Mellon University**</ins>. Before joining CMU as a graduate student, I successfully graduated with a B.S. degree in <ins>**Computer Science**</ins> as well as <ins>**Mathematics**</ins> from <ins>**Vanderbilt University**</ins> in 2023. <br>
+My current study is primarily focused on <ins>**computer systems**</ins> with a program track on <ins>**machine learning**</ins> at <ins>**Carnegie Mellon University**</ins>. Before joining CMU as a graduate student, I graduated with a B.S. degree in <ins>**Computer Science**</ins> as well as <ins>**Applied Mathematics**</ins> from <ins>**Vanderbilt University**</ins> in May 2023. <br>
 
 I have previously participated in multiple machine learning research laboratories at <ins>**Vanderbilt School of Engineering**</ins> and served as a Software Developer Intern at <ins>**IFlyTek.Inc**</ins>, a world-leading AI Solution Provider of Language Exchange & Machine Learning in China. I am currently further enhancing my knowledge base at CMU in the systems as well as machine learning field. I am eager to combine the knowledge of these two fields to serve the best of humanity. <br>
 
