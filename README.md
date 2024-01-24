@@ -63,6 +63,8 @@ Feel free to contact me if you find anything interesting here :)
 
 <ins>**Mathematics:**</ins> Linear Algebra, Probability, Statistics, Numerical Analysis, Convex Optimization, Mathematical Data Science
 
+### 👉 Personal Stats
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
