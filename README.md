@@ -19,7 +19,7 @@ I am also an enthusiast and researcher of Interwar-period European economic hist
 Feel free to connect with me if you find anything interesting here :) 👍<br><br>
 <br>
 
-## Connect with me ☕ :
+## Connect ☕ :
 <br>
 
 [![@allen_zhu9](https://img.icons8.com/fluency/48/000000/instagram-new.png "@allen_zhu9")](https://www.instagram.com/allen_zhu9/) [![@allenjwzhu724](https://img.icons8.com/fluency/48/000000/linkedin.png "@allenjwzhu724")](https://www.linkedin.com/in/allenjwzhu724/) [![@allenzhu724@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@allenzhu724@gmail.com")](@allenzhu724gmail.com)
