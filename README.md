@@ -8,11 +8,11 @@
 - 📍 **Pittsburgh, PA, United States** 🇺🇸
 - 🏡 **Hefei, Anhui, P.R. China** 🇨🇳
 
+💻 🌟 Seeking <ins>**Summer 2025 Intern**</ins> position in both <ins>**Software Development**</ins> and <ins>**Machine Learning**</ins>. 🌟 💻<br>
+
 My current study is primarily focused on <ins>**computer systems**</ins> with a program track on <ins>**machine learning**</ins> at <ins>**Carnegie Mellon University**</ins>. Before joining CMU as a graduate student, I graduated with a B.S. degree in <ins>**Computer Science**</ins> as well as <ins>**Applied Mathematics**</ins> from <ins>**Vanderbilt University**</ins> in 2023. <br>
 
 I have previously worked in multiple machine learning research laboratories at <ins>**Vanderbilt School of Engineering**</ins> and served as a Software Developer Intern at <ins>**IFlyTek.Inc**</ins>, a world-leading AI Solution Provider of Language Exchange & Machine Learning in China. I am currently further enhancing my knowledge base at CMU in the systems as well as machine learning field. I am eager to combine the knowledge of these two fields to serve the best of humanity. <br>
-
-I will be seeking a <ins>**Summer 2025 Intern**</ins> position in both <ins>**Software Development**</ins> and <ins>**Machine Learning**</ins>.<br>
 
 I am also an enthusiast and researcher of Interwar-period European economic history. I would be happy to start a discussion on such a topic. Aside from English and Mandarin, I am also able to communicate in both Japanese and French and am currently learning German.<br>
 
