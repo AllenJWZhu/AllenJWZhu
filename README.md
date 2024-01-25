@@ -17,6 +17,8 @@ I am also an enthusiast and researcher of Interwar-period European economic hist
 
 Feel free to connect with me if you find anything interesting here :) 👍<br><br><br>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ## Connect ☕ :
 <br>
 
