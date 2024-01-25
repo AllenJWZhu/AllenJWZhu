@@ -26,7 +26,7 @@ Feel free to connect with me if you find anything interesting here :) 👍<br><b
 
 <br>
 
-## 🛠️ My Skills
+## My Skills 🛠️:
 
 ### 👉 Programming languages
 
@@ -67,7 +67,7 @@ Feel free to connect with me if you find anything interesting here :) 👍<br><b
 
 <ins>**Mathematics:**</ins> Linear Algebra, Probability, Statistics, Numerical Analysis, Convex Optimization, Mathematical Data Science
 
-## Github Stats
+## Github Stats ✨:
 
 <!--- stats & Trophy (start) -->
 <p align="center">
