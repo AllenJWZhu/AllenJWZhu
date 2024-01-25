@@ -16,15 +16,14 @@ I have previously worked in multiple machine learning research laboratories at <
 
 I am also an enthusiast and researcher of Interwar-period European economic history. I would be happy to start a discussion on such a topic. Aside from English and Mandarin, I am also able to communicate in both Japanese and French and am currently learning German.<br>
 
-Feel free to connect with me if you find anything interesting here :) 👍<br><br>
-<br>
+Feel free to connect with me if you find anything interesting here :) 👍<br><br><br>
 
 ## Connect ☕ :
 <br>
 
 [![@allen_zhu9](https://img.icons8.com/fluency/48/000000/instagram-new.png "@allen_zhu9")](https://www.instagram.com/allen_zhu9/) [![@allenjwzhu724](https://img.icons8.com/fluency/48/000000/linkedin.png "@allenjwzhu724")](https://www.linkedin.com/in/allenjwzhu724/) [![@allenzhu724@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@allenzhu724@gmail.com")](@allenzhu724gmail.com)
 
-<br>
+<be><br>
 
 ## My Skills 🛠️:
 
@@ -54,8 +53,6 @@ Feel free to connect with me if you find anything interesting here :) 👍<br><b
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 
-<br/>
-
 ### 👉 Relavent Courses
 <ins>**CS Fundamentals:**</ins> Fundamentals of Programming, Data Structures, Algorithms, Discrete Structures
 
@@ -65,7 +62,7 @@ Feel free to connect with me if you find anything interesting here :) 👍<br><b
 
 <ins>**Machine Learning:**</ins> Machine Learning, Artificial Intelligence, Image Processing, Computer Vision, Machine Learning Project
 
-<ins>**Mathematics:**</ins> Linear Algebra, Probability, Statistics, Numerical Analysis, Convex Optimization, Mathematical Data Science
+<ins>**Mathematics:**</ins> Linear Algebra, Probability, Statistics, Numerical Analysis, Convex Optimization, Mathematical Data Science<br><br><br>
 
 ## Github Stats ✨:
 
