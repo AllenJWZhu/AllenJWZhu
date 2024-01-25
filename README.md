@@ -5,18 +5,18 @@
 
 - 🎓 **M.S. Graduate Student** at [Carnegie Mellon University](https://www.cmu.edu/)
 - 🎓 **B.S. Undergraduate Alumnus** at [Vanderbilt University](https://www.vanderbilt.edu/)
-- 🏡 **Pittsburgh, PA, United States**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🏡 **Pittsburgh, PA, United States** 🇺🇸
+- 🏡 **Hefei, Anhui, P.R. China** 🇨🇳
 
 My current study is primarily focused on <ins>**computer systems**</ins> with a program track on <ins>**machine learning**</ins> at <ins>**Carnegie Mellon University**</ins>. Before joining CMU as a graduate student, I graduated with a B.S. degree in <ins>**Computer Science**</ins> as well as <ins>**Applied Mathematics**</ins> from <ins>**Vanderbilt University**</ins> in 2023. <br>
 
 I have previously worked in multiple machine learning research laboratories at <ins>**Vanderbilt School of Engineering**</ins> and served as a Software Developer Intern at <ins>**IFlyTek.Inc**</ins>, a world-leading AI Solution Provider of Language Exchange & Machine Learning in China. I am currently further enhancing my knowledge base at CMU in the systems as well as machine learning field. I am eager to combine the knowledge of these two fields to serve the best of humanity. <br>
 
-I will be seeking a <ins>**Summer 2025 Intern**</ins> position in both <ins>**Software Development**</ins> and <ins>**Machine Learning**</ins>. <br>
+I will be seeking a <ins>**Summer 2025 Intern**</ins> position in both <ins>**Software Development**</ins> and <ins>**Machine Learning**</ins>.<br>
+
+I am also an enthusiast and researcher of Interwar-period European economic history. I would be happy to start a discussion on such a topic. Aside from English and Mandarin, I am also able to communicate in both Japanese and French and am currently learning German.<br>
 
 Feel free to connect with me if you find anything interesting here :) 👍<br><br>
-
-\*\*For CMU students: I have started a project called <ins>**CMU Course Notes**</ins>, which is a comprehensive collection of the CS course notes offered at CMU. You are very welcome to submit requests to add additional content or utilize this resource to facilitate your studies.
 <br>
 
 ## Connect with me ☕ :
@@ -30,29 +30,30 @@ Feel free to connect with me if you find anything interesting here :) 👍<br><b
 
 ### 👉 Programming languages
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![C](https://img.shields.io/badge/-C-222222?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java)
+![Go](https://img.shields.io/badge/-Go-222222?style=flat&logo=go)
+![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql)
+![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 
 ### 👉 Technologies
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
+![Amazon Web Service](https://img.shields.io/badge/-Amazon%20Web%20Service-222222?style=flat-square&logo=Amazon-Web-Service)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-222222?style=flat-square&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-222222?style=flat-square&logo=docker)
+![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat-square&logo=MongoDB)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-222222?style=flat-square&logo=Kubernetes)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
-![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
-![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Service)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
 <br/>
 
 ### 👉 Relavent Courses
