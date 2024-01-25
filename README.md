@@ -8,11 +8,15 @@
 - 🏡 **Pittsburgh, PA, United States**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
-My current study is primarily focused on <ins>**computer systems**</ins> with a program track on <ins>**machine learning**</ins> at <ins>**Carnegie Mellon University**</ins>. Before joining CMU as a graduate student, I graduated with a B.S. degree in <ins>**Computer Science**</ins> as well as <ins>**Applied Mathematics**</ins> from <ins>**Vanderbilt University**</ins> in May 2023. <br>
+My current study is primarily focused on <ins>**computer systems**</ins> with a program track on <ins>**machine learning**</ins> at <ins>**Carnegie Mellon University**</ins>. Before joining CMU as a graduate student, I graduated with a B.S. degree in <ins>**Computer Science**</ins> as well as <ins>**Applied Mathematics**</ins> from <ins>**Vanderbilt University**</ins> in 2023. <br>
 
-I have previously participated in multiple machine learning research laboratories at <ins>**Vanderbilt School of Engineering**</ins> and served as a Software Developer Intern at <ins>**IFlyTek.Inc**</ins>, a world-leading AI Solution Provider of Language Exchange & Machine Learning in China. I am currently further enhancing my knowledge base at CMU in the systems as well as machine learning field. I am eager to combine the knowledge of these two fields to serve the best of humanity. <br>
+I have previously worked in multiple machine learning research laboratories at <ins>**Vanderbilt School of Engineering**</ins> and served as a Software Developer Intern at <ins>**IFlyTek.Inc**</ins>, a world-leading AI Solution Provider of Language Exchange & Machine Learning in China. I am currently further enhancing my knowledge base at CMU in the systems as well as machine learning field. I am eager to combine the knowledge of these two fields to serve the best of humanity. <br>
 
-Feel free to contact me if you find anything interesting here :)
+I will be seeking a <ins>**Summer 2025 Intern**</ins> position in both <ins>**Software Development**</ins> and <ins>**Machine Learning**</ins>. <br>
+
+Feel free to connect with me if you find anything interesting here :) 👍<br><br>
+
+\*\*For CMU students: I have started a project called <ins>**CMU Course Notes**</ins>, which is a comprehensive collection of the CS course notes offered at CMU. You are very welcome to submit requests to add additional content or utilize this resource to facilitate your studies.
 <br>
 
 ## Connect with me ☕ :
