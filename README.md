@@ -39,17 +39,6 @@
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 
-### 👉 Relavent Courses
-<ins>**CS Fundamentals:**</ins> Fundamentals of Programming, Data Structures, Algorithms, Discrete Structures
-
-<ins>**Software:**</ins> Intermediate Software Design, Principles of Software Design, Web Design
-
-<ins>**Systems:**</ins> Computer Systems, Digital Systems, Operating Systems, Distributed Systems, Database Management Systems
-
-<ins>**Machine Learning:**</ins> Machine Learning, Artificial Intelligence, Image Processing, Computer Vision, Machine Learning Project
-
-<ins>**Mathematics:**</ins> Linear Algebra, Probability, Statistics, Numerical Analysis, Convex Optimization, Mathematical Data Science<br>
-
 ## Github Stats ✨:
 
 <!--- stats & Trophy (start) -->
