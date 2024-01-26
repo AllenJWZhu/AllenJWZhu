@@ -74,7 +74,7 @@ Feel free to connect with me if you find anything interesting here :) 👍<br><b
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AllenJWZhu&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AllenJWZhu&theme=dark&show_icons=true&rank_icon=github&count_private=true&hide=contribs&include_all_commits=false" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AllenJWZhu&theme=dark&hide_border=false" /> 
 </td>
