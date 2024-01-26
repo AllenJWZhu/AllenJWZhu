@@ -11,21 +11,6 @@
 - 💻 **Google Developer Student Club** Technical Team Member
 - 💻 **ScottyLabs** Software Developer
 
-My current study is primarily focused on <ins>**computer systems**</ins> with a program track on <ins>**machine learning**</ins> at <ins>**Carnegie Mellon University**</ins>. Before joining CMU as a graduate student, I graduated with a B.S. degree in <ins>**Computer Science**</ins> and <ins>**Mathematics**</ins> from <ins>**Vanderbilt University**</ins> in 2023. <br>
-
-I have previously worked in multiple machine learning research laboratories at <ins>**Vanderbilt School of Engineering**</ins> and served as a Software Developer Intern at <ins>**IFlyTek.Inc**</ins>, a world-leading AI Solution Provider of Language Exchange & Machine Learning in China. I am further enhancing my knowledge base in CMU's systems and machine learning fields. I am eager to combine the knowledge of these two fields to serve the best of humanity. <br>
-
-I am also an enthusiast and researcher of Interwar-period European economic history. I would be happy to start a discussion on such a topic. Aside from English and Mandarin, I am also able to communicate in both Japanese and French and am currently learning German.<br>
-
-Feel free to connect with me if you find anything interesting here :) 👍<br><br><br>
-
-## Connect ☕ :
-<br>
-
-[![@allen_zhu9](https://img.icons8.com/fluency/48/000000/instagram-new.png "@allen_zhu9")](https://www.instagram.com/allen_zhu9/) [![@allenjwzhu724](https://img.icons8.com/fluency/48/000000/linkedin.png "@allenjwzhu724")](https://www.linkedin.com/in/allenjwzhu724/) [![@allenzhu724@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@allenzhu724@gmail.com")](@allenzhu724gmail.com)
-
-<be><br>
-
 ## My Skills 🛠️:
 
 ### 👉 Programming languages
@@ -100,6 +85,11 @@ Feel free to connect with me if you find anything interesting here :) 👍<br><b
 </p>        
 <!--- stats (end) -->
 
-Credit: [AllenJWZhu](https://github.com/AllenJWZhu)
+## Connect ☕ :
+<br>
 
-Last edited on: 01/24/2024
+[![@allen_zhu9](https://img.icons8.com/fluency/48/000000/instagram-new.png "@allen_zhu9")](https://www.instagram.com/allen_zhu9/) [![@allenjwzhu724](https://img.icons8.com/fluency/48/000000/linkedin.png "@allenjwzhu724")](https://www.linkedin.com/in/allenjwzhu724/) [![@allenzhu724@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@allenzhu724@gmail.com")](@allenzhu724gmail.com)
+
+<be><be>
+
+Last edited on: 01/26/2024
