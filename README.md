@@ -48,7 +48,7 @@
 
 <ins>**Machine Learning:**</ins> Machine Learning, Artificial Intelligence, Image Processing, Computer Vision, Machine Learning Project
 
-<ins>**Mathematics:**</ins> Linear Algebra, Probability, Statistics, Numerical Analysis, Convex Optimization, Mathematical Data Science<br><br>
+<ins>**Mathematics:**</ins> Linear Algebra, Probability, Statistics, Numerical Analysis, Convex Optimization, Mathematical Data Science<br>
 
 ## Github Stats ✨:
 
