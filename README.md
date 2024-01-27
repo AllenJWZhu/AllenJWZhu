@@ -35,6 +35,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat-square&logo=docker)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat-square&logo=MongoDB)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-222222?style=flat-square&logo=Kubernetes)
+![Django](https://img.shields.io/badge/-Django-222222?style=flat-square&logo=Django)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
