@@ -38,7 +38,6 @@
 ![Django](https://img.shields.io/badge/-Django-222222?style=flat-square&logo=Django)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 
 ## Github Stats ✨:
 
