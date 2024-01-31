@@ -26,11 +26,9 @@
 
 ### 👉 Technologies
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Amazon Web Service](https://img.shields.io/badge/-Amazon%20Web%20Service-222222?style=flat-square&logo=amazon-aws)
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
-![Amazon Web Service](https://img.shields.io/badge/-Amazon%20Web%20Service-222222?style=flat-square&logo=Amazon-Web-Service)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-222222?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat-square&logo=docker)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat-square&logo=MongoDB)
