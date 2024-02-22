@@ -6,8 +6,6 @@
 - 🎓 **M.S. Graduate Student** at [Carnegie Mellon University](https://www.cmu.edu/)
 - 🎓 **B.S. Undergraduate Alumnus** at [Vanderbilt University](https://www.vanderbilt.edu/)
 - 📍 **Pittsburgh, PA, United States** 🇺🇸
-- 💻 **Google Developer Student Club** Technical Team Member
-- 💻 **ScottyLabs** Software Developer
 
 ## My Skills 🛠️:
 
