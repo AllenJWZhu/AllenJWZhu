@@ -35,6 +35,8 @@
 ![Django](https://img.shields.io/badge/-Django-222222?style=flat-square&logo=Django)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![PyTorch](https://img.shields.io/badge/-PyTorch-222222?style=flat&logo=PyTorch&logoColor=61DAFB)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-222222?style=flat&logo=Tensorflow&logoColor=61DAFB)
 
 ## Github Stats ✨:
 
