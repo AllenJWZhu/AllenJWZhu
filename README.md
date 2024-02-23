@@ -6,6 +6,7 @@
 - 🎓 **M.S. Graduate Student** at [Carnegie Mellon University](https://www.cmu.edu/)
 - 🎓 **B.S. Undergraduate Alumnus** at [Vanderbilt University](https://www.vanderbilt.edu/)
 - 📍 **Pittsburgh, PA, United States** 🇺🇸
+- 🏳‍🌈🌹✊
 
 I am creating projects mainly on LLM and Computer Systems, feel free to check out my implementation of the Llama 2 and BERT models and try running them! I also have demos of RAFT as well as Multi-client server projects dedicated to playing around with distributed systems purposes.
 Update: Currently I am testing out the RAG and MoEs utilization of LLMs for Needle-in-a-Haystack problems, stay tuned for further updates.
