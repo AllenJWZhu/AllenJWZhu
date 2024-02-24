@@ -54,7 +54,6 @@ Update: Currently I am testing out the RAG and MoEs utilization of LLMs for retr
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AllenJWZhu&theme=dark&show_icons=true&rank_icon&count_private=true&hide=contribs&include_all_commits=false" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AllenJWZhu&theme=dark&hide_border=false" /> 
 </td>
 
 
