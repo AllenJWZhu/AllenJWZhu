@@ -7,7 +7,7 @@
 - 🎓 **B.S. Undergraduate Alumnus** at [Vanderbilt University](https://www.vanderbilt.edu/) - Computer Science, Mathematics
 - 📍 **Pittsburgh, PA, USA**
 - 🏠 **Hefei, CN** -> **London, CA** -> **Nashville, US**
-- ACM Student Fellow, IEEE CMU Student Chapter, myGwork LGBTQ+ Member
+- ACM Student Fellow, IEEE CMU Student Chapter
 - 🏳‍🌈🏳️‍⚧️🌹✊☮️
 
 I am creating projects mainly on LLM and Computer Systems, feel free to check out my implementation of the Llama 2 and BERT models and try running them! I also have demos of various distributed models such as RAFT as well as Multi-client server projects dedicated to playing around with distributed systems purposes.<be>
