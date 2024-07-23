@@ -23,9 +23,6 @@ Update: Currently I am testing out the RAG and MoEs utilization of LLMs for retr
 ![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java)
 ![Go](https://img.shields.io/badge/-Go-222222?style=flat&logo=go)
 ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql)
-![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 
 ### 👉 Technologies
 
