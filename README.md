@@ -39,35 +39,6 @@ Update: Currently I am testing out the RAG and MoEs utilization of LLMs for retr
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
-## Github Stats ✨:
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="100%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AllenJWZhu&theme=dark&show_icons=true&rank_icon&count_private=true&hide=contribs&include_all_commits=false" />
-  <br></br>
-</td>
-
-
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=85% src="https://github-profile-trophy.vercel.app/?username=AllenJWZhu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
 ## Connect ☕ :
 <br>
 
@@ -75,4 +46,4 @@ Update: Currently I am testing out the RAG and MoEs utilization of LLMs for retr
 
 <be><be>
 
-Last edited on: 02/04/2024
+Last edited on: 08/11/2024
