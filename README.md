@@ -11,7 +11,7 @@
 
 As a graduate student at Carnegie Mellon University, my research and projects center around the intricate interplay between large language models (LLMs) and distributed computer systems. My academic journey, which began with a solid foundation in Computer Science and Mathematics at Vanderbilt University, has evolved into a deep exploration of machine learning architectures, systems optimization, and scalable distributed models.
 
-Feel free to explore the projects and more in my repository, where I commit into the cutting-edge of machine learning and computer systems, pushing the boundaries of what these technologies can achieve when expertly combined.
+Feel free to explore the projects and more in my repository.
 
 ## My Skills 🛠️:
 
