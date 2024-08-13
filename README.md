@@ -9,9 +9,7 @@
 - 🏠 **Hefei, CN** -> **London, CA** -> **Nashville, US**
 - ACM Student Fellow, IEEE CMU Student Chapter
 
-I am creating projects mainly on LLM and Computer Systems, feel free to check out my implementation of the Llama 2 and BERT models and try running them! I also have demos of various distributed models such as RAFT as well as Multi-client server projects dedicated to playing around with distributed systems purposes.<be>
-
-Update: Currently I am testing out the RAG and MoEs utilization of LLMs for retrieval problems, stay tuned for further updates.
+I am creating projects mainly on LLM and Computer Systems, feel free to check out my implementation of the Llama 2 Inferer and BERT models and try running them! I also have demos of various distributed models such as RAFT as well as Multi-client server projects dedicated to playing around with distributed systems purposes.<be>
 
 ## My Skills 🛠️:
 
