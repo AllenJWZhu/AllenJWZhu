@@ -11,16 +11,7 @@
 
 As a graduate student at Carnegie Mellon University, my research and projects center around the intricate interplay between large language models (LLMs) and distributed computer systems. My academic journey, which began with a solid foundation in Computer Science and Mathematics at Vanderbilt University, has evolved into a deep exploration of machine learning architectures, systems optimization, and scalable distributed models.
 
-**Highlighted Projects**:
-- Llama 2 Inference Engine: A highly optimized implementation of the Llama 2 model inference engine, designed for efficient real-time inference in constrained environments. This project explores advanced techniques in model pruning, quantization, and custom kernel optimization.
-
-- BERT Model Inference with TensorRT: Detailed explorations into the internals of BERT, focusing on performance-efficient inference techniques with TensorRT.
-
-- RAFT Consensus Protocol Simulation: A robust simulation of the RAFT consensus algorithm, demonstrating the practical implications of distributed consistency in fault-tolerant systems. The project includes a multi-client server architecture designed to test the boundaries of scalability and network partition tolerance.
-
-- Distributed Systems Playground: A comprehensive set of demos and tools for experimenting with various distributed systems concepts, including leader election, data replication, and load balancing across heterogeneous environments.
-
-Feel free to explore these projects and more in my repository, where I delve into the cutting-edge of machine learning and computer systems, pushing the boundaries of what these technologies can achieve when expertly combined.
+Feel free to explore the projects and more in my repository, where I delve into the cutting-edge of machine learning and computer systems, pushing the boundaries of what these technologies can achieve when expertly combined.
 
 ## My Skills 🛠️:
 
