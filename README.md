@@ -3,7 +3,7 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br>
 
-- 🎓 **M.S. Graduate Student** at [Carnegie Mellon University](https://www.cmu.edu/) - Computer Systems, Machine Learning
+- 🎓 **M.S. Graduate Student** at [Carnegie Mellon University](https://www.cmu.edu/) - Computer Systems, Machine Learning Systems
 - 🎓 **B.S. Undergraduate Alumnus** at [Vanderbilt University](https://www.vanderbilt.edu/) - Computer Science, Mathematics
 - 📍 **Pittsburgh, PA, USA**
 - 🏠 **Hefei, CN** -> **London, CA** -> **Nashville, US**
