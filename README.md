@@ -3,16 +3,6 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br>
 
-- 🎓 **M.S. Graduate Student** at [Carnegie Mellon University](https://www.cmu.edu/) - Computer Systems, Machine Learning Systems
-- 🎓 **B.S. Undergraduate Alumnus** at [Vanderbilt University](https://www.vanderbilt.edu/) - Computer Science, Mathematics
-- 📍 **Pittsburgh, PA, USA**
-- 🏠 **Hefei, CN** -> **London, CA** -> **Nashville, US**
-- ACM Student Fellow, IEEE CMU Student Chapter
-
-As a graduate student at Carnegie Mellon University, my research and projects center around the intricate interplay between large language models (LLMs) and distributed computer systems. My academic journey, which began with a solid foundation in Computer Science and Mathematics at Vanderbilt University, has evolved into a deep exploration of machine learning architectures, systems optimization, and scalable distributed models.
-
-Feel free to explore the projects and more in my repository.
-
 ## My Skills 🛠️:
 
 ### 👉 Programming languages
