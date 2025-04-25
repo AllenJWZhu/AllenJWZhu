@@ -1,6 +1,31 @@
 <br>
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">About me</h2>  
+
+## 👋 Hey, I’m **Allen Zhu**
+
+I build **high-performance machine-learning systems** that anchor the micro-second-critical hop from user query to model inference.
+
+* 🔬 **Current playground — SWE Intern @ Meta, Ads Core Machine Learning Infrastructure**  
+
+* 📈 **Research & side quests**
+  - Elastic batching & dynamic-precision schedulers
+  - Kernel-level optimizations for attention & GEMM
+  - Monte-Carlo & options Greeks on GPUs for fun (Quant Dev wannabe)  
+  - Writing about ML-infra design & latency engineering on Medium/知乎
+
+* 🎓 **Education**
+  - M.S. @ Carnegie Mellon — Computer Systems & Machine-Learning Systems (Dec ’25)  
+  - B.S. @ Vanderbilt — Computer Science + Applied Math (’23)
+
+* 🧐 **Looking for** full-time roles of **ML engineering / ML Systems engineering**—be it Ads infra, foundation-model serving, or ultra-low-latency trading.
+
+- “Shaving a few microseconds off the p99 isn’t a vanity metric—it’s a line item off next quarter’s hardware bill.”
+— Probably me, somewhere between a cache-grind session and a cup of coffee
+
+* 📫 **Reach out**
+  - [Email](allenzhu724@gmail.com)
+  - [LinkedIn](https://linkedin.com/in/allenjwzhu724)
 <br>
 
 ## My Skills 🛠️:
