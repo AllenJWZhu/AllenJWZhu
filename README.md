@@ -61,4 +61,13 @@ I build **high-performance machine-learning systems** that anchor the micro-seco
 
 <be><be>
 
-Last edited on: 08/11/2024
+<p align="center">
+   <a href="https://github.com/AllenJWZhu?tab=repositories">
+   <img src="https://github-readme-stats.vercel.app/api?username=AllenJWZhu&show_icons=true">
+   </a>
+
+   <br>
+   <br>   
+</p>
+
+Last edited on: 04/24/2025
