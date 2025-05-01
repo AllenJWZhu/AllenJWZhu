@@ -15,7 +15,7 @@ I build **high-performance machine-learning systems** that anchor the micro-seco
   - Writing about ML-infra design & latency engineering on Medium/知乎
 
 * 🎓 **Education**
-  - M.S. @ Carnegie Mellon — Computer Systems & Machine-Learning Systems (Dec ’25)  
+  - M.S. @ Carnegie Mellon — Computer Systems & Machine-Learning Systems (Dec ’24)  
   - B.S. @ Vanderbilt — Computer Science + Applied Math (’23)
 
 * 🧐 **Looking for** full-time roles of **ML engineering / ML Systems engineering**—be it Ads infra, foundation-model serving, or ultra-low-latency trading.
