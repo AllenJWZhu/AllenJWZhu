@@ -40,7 +40,7 @@ I’m **Allen Zhu** – I build **high-performance machine-learning systems** th
 ```mermaid
 gantt
     dateFormat  YYYY-MM
-    title       My Recent Journey
+    title       Work Experience
     section Experience
     Meta – ML Infra Intern (C++/CUDA)     :a1, 2025-05, 3m
     SenseTime – Research Intern (LLM Quantization) :a2, 2024-12, 2m
