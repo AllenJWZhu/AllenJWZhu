@@ -1,66 +1,88 @@
-<br>
-<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h2 align="left" font-weight="bold">About me</h2>  
-
-<h1 style="font-size: 28px; font-weight: bold;">致瞬息万变之物 及亘古不变之物。🇨🇳 </h1>
-
-## 👋 Hey, I’m **Allen Zhu**
-
-I build **high-performance machine-learning systems** that anchor the micro-second-critical hop from user query to model inference.
-
-* 🔬 **Current playground — SWE Intern @ Meta, Ads Core Machine Learning Infrastructure**  
-
-* 📈 **Research & side quests**
-  - Elastic batching & dynamic-precision schedulers
-  - Kernel-level optimizations for attention & GEMM
-  - Monte-Carlo & options Greeks on GPUs for fun (Quant Dev wannabe)  
-  - Writing about ML-infra design & latency engineering on Medium/知乎
-
-* 🧐 **Looking for** full-time roles of **ML engineering / ML Systems engineering**—be it Ads infra, foundation-model serving, or ultra-low-latency trading.
-
-- “Shaving a few microseconds off the p99 isn’t a vanity metric—it’s a line item off next quarter’s hardware bill.”
-— Probably me, somewhere between a cache-grind session and a cup of coffee
-
-* 📫 **Reach out**
-  - [Email](allenzhu724@gmail.com)
-  - [LinkedIn](https://linkedin.com/in/allenjwzhu724)
-<br>
-
-## My Skills 🛠️:
-
-### 👉 Programming languages
-
-![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-222222?style=flat&logo=c)
-![Go](https://img.shields.io/badge/-Go-222222?style=flat&logo=go)
-![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql)
-
-### 👉 Technologies
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-222222?style=flat&logo=PyTorch&logoColor=61DAFB)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-222222?style=flat&logo=Tensorflow&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/-Docker-222222?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-222222?style=flat-square&logo=Kubernetes)
-![Amazon Web Service](https://img.shields.io/badge/-Amazon%20Web%20Service-222222?style=flat-square&logo=amazon-aws)
-![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-222222?style=flat-square&logo=google-cloud)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-
-## Connect ☕ :
-<br>
-
-[![@allen_zhu9](https://img.icons8.com/fluency/48/000000/instagram-new.png "@allen_zhu9")](https://www.instagram.com/allen_zhu9/) [![@allenjwzhu724](https://img.icons8.com/fluency/48/000000/linkedin.png "@allenjwzhu724")](https://www.linkedin.com/in/allenjwzhu724/) [![@allenzhu724@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@allenzhu724@gmail.com")](@allenzhu724gmail.com)
-
-<be><be>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         ALLEN ZHU                            ║ -->
+<!-- ║            High-Performance ML Systems Engineer              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-   <a href="https://github.com/AllenJWZhu?tab=repositories">
-   <img src="https://github-readme-stats.vercel.app/api?username=AllenJWZhu&show_icons=true">
-   </a>
-
-   <br>
-   <br>   
+  <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="90" height="90"/>
 </p>
 
-Last edited on: 04/24/2025
+<h1 align="center" style="font-size:34px;margin-top:-10px;">
+  致瞬息万变之物 · 及亘古不变之物
+</h1>
+
+<p align="center">
+  <em>ML System Protection Association, save your GPU, save lives.</em>
+</p>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                           ABOUT ME                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<h2>About&nbsp;Me</h2>
+
+I’m **Allen Zhu** – I build **high-performance machine-learning systems** that turn user queries into model outputs in micro-seconds.
+
+- 🔬 **Now** — SWE Intern @ **Meta (Facebook) • AI Infra**
+- ⚙️ **Before** — Research Intern @ **SenseTime • AI Lab** & SWE Intern @ **iFLYTEK • Speech AI**
+- ✍️ **Writing** — large language model, machine learning systems, high performance computing (Medium / 知乎)  
+- 🧐 **Seeking** — full-time **ML Systems / Infra** roles=
+- 🎯 **Side quests** — photography, strategy games, pokemon enjoyer
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        EXPERIENCE TIMELINE                   ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+### 🗂️ Timeline
+
+```mermaid
+gantt
+    dateFormat  YYYY-MM
+    title       My Recent Journey
+    section Experience
+    Meta – ML Infra Intern (C++/CUDA)     :a1, 2025-05, 3m
+    SenseTime – Research Intern (LLM Quantization) :a2, 2024-12, 2m
+    iFLYTEK – Software Engineer Intern (Speech AI) :a3, 2024-08, 3m
+```
+
+---
+
+<!-- ╔════════════════════════════════════════╗ -->
+<!-- ║             TECH STACK                 ║ -->
+<!-- ╚════════════════════════════════════════╝ -->
+### 🧰 Tech Stack
+
+| Languages | ML Systems / HPC | Cloud & DevOps |
+|-----------|------------------|----------------|
+| <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> | <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Triton-76B900?style=flat&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat&logo=onnx&logoColor=white"/> <img src="https://img.shields.io/badge/Ray-0074D9?style=flat&logo=ray&logoColor=white"/> <img src="https://img.shields.io/badge/gRPC-00897B?style=flat&logo=grpc&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> |
+
+---
+
+<!-- ╔════════════════════════════════════════╗ -->
+<!-- ║             GITHUB STATS               ║ -->
+<!-- ╚════════════════════════════════════════╝ -->
+### 📈 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AllenJWZhu&theme=tokyonight&show_icons=true&count_private=true" alt="stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllenJWZhu&theme=tokyonight" alt="streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenJWZhu&layout=compact&theme=tokyonight&hide=html,css"/>
+</p>
+
+---
+
+<!-- ╔════════════════════════════════════════╗ -->
+<!-- ║                CONTACT                 ║ -->
+<!-- ╚════════════════════════════════════════╝ -->
+### ☕ Reach Out
+
+<p>
+  <a href="mailto:allenzhu724@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/allenjwzhu724"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/allen_zhu9/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
+
+<!-- Last updated: 2025‑05‑01 -->
