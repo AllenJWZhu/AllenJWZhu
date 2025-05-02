@@ -28,27 +28,22 @@ I build **high-performance machine-learning systems** that anchor the micro-seco
 
 ### 👉 Programming languages
 
-![C](https://img.shields.io/badge/-C-222222?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java)
+![C](https://img.shields.io/badge/-C-222222?style=flat&logo=c)
 ![Go](https://img.shields.io/badge/-Go-222222?style=flat&logo=go)
 ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql)
 
 ### 👉 Technologies
 
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![PyTorch](https://img.shields.io/badge/-PyTorch-222222?style=flat&logo=PyTorch&logoColor=61DAFB)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-222222?style=flat&logo=Tensorflow&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/-Docker-222222?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-222222?style=flat-square&logo=Kubernetes)
 ![Amazon Web Service](https://img.shields.io/badge/-Amazon%20Web%20Service-222222?style=flat-square&logo=amazon-aws)
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-222222?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-222222?style=flat-square&logo=docker)
-![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat-square&logo=MongoDB)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-222222?style=flat-square&logo=Kubernetes)
-![PyTorch](https://img.shields.io/badge/-PyTorch-222222?style=flat&logo=PyTorch&logoColor=61DAFB)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-222222?style=flat&logo=Tensorflow&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/-Django-222222?style=flat-square&logo=Django)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
 ## Connect ☕ :
 <br>
