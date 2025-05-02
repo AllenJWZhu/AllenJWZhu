@@ -22,7 +22,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 <h2>About&nbsp;Me</h2>
 
-I’m **Allen Zhu** – I build **high-performance machine-learning systems** that turn user queries into model outputs in micro-seconds.
+I’m **Allen Zhu** – I build **high-performance machine-learning systems**
 
 - 🔬 **Now** — SWE Intern @ **Meta (Facebook) • AI Infra**
 - ⚙️ **Before** — Research Intern @ **SenseTime • AI Lab** & SWE Intern @ **iFLYTEK • Speech AI**
