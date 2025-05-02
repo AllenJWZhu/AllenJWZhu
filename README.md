@@ -61,20 +61,6 @@ gantt
 ---
 
 <!-- ╔════════════════════════════════════════╗ -->
-<!-- ║             GITHUB STATS               ║ -->
-<!-- ╚════════════════════════════════════════╝ -->
-### 📈 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllenJWZhu&theme=tokyonight&show_icons=true&count_private=true" alt="stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllenJWZhu&theme=tokyonight" alt="streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenJWZhu&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
-
----
-
-<!-- ╔════════════════════════════════════════╗ -->
 <!-- ║                CONTACT                 ║ -->
 <!-- ╚════════════════════════════════════════╝ -->
 ### ☕ Reach Out
