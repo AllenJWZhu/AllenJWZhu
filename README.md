@@ -60,7 +60,7 @@ gantt
 
 ---
 
-![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenJWZhu&show_icons=true&theme=radical)
+<!-- ![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenJWZhu&show_icons=true&theme=radical) -->
 
 
 <!-- ╔════════════════════════════════════════╗ -->
